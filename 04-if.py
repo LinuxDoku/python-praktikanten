@@ -6,6 +6,6 @@ else:
 print
 alter = 17
 if alter >= 18:
-	print "Sie sind volljährig."
+	print "Sie sind volljaehrig."
 else:
-	print "Sie nicht nicht volljährig."
+	print "Sie nicht nicht volljaehrig."
